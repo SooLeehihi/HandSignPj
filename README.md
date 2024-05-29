@@ -1,1 +1,1 @@
-# HandSignPj
+# HandSign
